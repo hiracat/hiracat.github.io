@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+  background-color: #1e1e2e;  /* base */
+  color: #cdd6f4;             /* text */
+}
+
+a {
+  color: #89b4fa;             /* blue */
+}
+
+h1, h2, h3 {
+  color: #fab387;             /* peach */
+}
+
+nav {
+  background-color: #313244;  /* surface0 */
+  border-color: #45475a;
+}
+
+footer {
+  background-color: #313244;
+  color: #a6adc8;
+}
