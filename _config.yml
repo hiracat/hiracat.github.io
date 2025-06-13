@@ -1,5 +1,7 @@
-theme: jekyll-theme-midnight
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 
 title: [Hi]
 tagline: [All things me]
 description: [a personal blog of mine, hope to make it excelent]
+
+plugins: [jekyll-include-cache]
